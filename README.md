@@ -9,7 +9,7 @@ I am a student who develops web apps.
 ### My Works
 | Name | Link to the Repository | Link to the App |
 | ---- | ---- | ---- |
-| "Yamada's Timer" | [Repository](https://github.com/r-40021/countdown-timer) | [OPEN](https://r-40021.github.io/countdown-timer/) |
-| "Yamada BINGO" | [Repository](https://github.com/r-40021/bingo) | [OPEN](https://r-40021.github.io/bingo/) |
+| Yamada's Timer | [Repository](https://github.com/r-40021/countdown-timer) | [OPEN](https://r-40021.github.io/countdown-timer/) |
+| Yamada BINGO | [Repository](https://github.com/r-40021/bingo) | [OPEN](https://r-40021.github.io/bingo/) |
 
 Please give me a star if you like my app✨
