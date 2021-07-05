@@ -11,5 +11,6 @@ I am a student who develops web apps.
 | ---- | ---- | ---- |
 | Yamada's Timer | [Repository](https://github.com/r-40021/countdown-timer) | [OPEN](https://r-40021.github.io/countdown-timer/) |
 | Yamada BINGO | [Repository](https://github.com/r-40021/bingo) | [OPEN](https://r-40021.github.io/bingo/) |
+| Stopwatch | [Repository](https://github.com/r-40021/stopwatch) | [OPEN](https://r-40021.github.io/stopwatch/) |
 
 Please give me a star if you like my app✨
