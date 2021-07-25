@@ -1,6 +1,6 @@
 # Kenichi Yamada
 ### Hi there 👋
-I am a student who develops web apps. 
+I am a student who develops web apps and Chrome extensions.
 
 [My Portfolio](https://r-40021.github.io/)
 
