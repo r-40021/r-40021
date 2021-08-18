@@ -7,9 +7,7 @@ I am a student who develops web apps and Chrome extensions.
 ![Kenichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-40021&show_icons=true) 
 
 ## Skills
-✅ Developing a simple web app
-
-✅ Developing a chrome extension
+✅ Developing a simple web app and a chrome extension
 
 ✅ Helping you with using a computer
 
