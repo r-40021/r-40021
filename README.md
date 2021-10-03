@@ -4,7 +4,7 @@ I am a student who develops web apps and Chrome extensions.
 
 [My Portfolio](https://r-40021.github.io/)
 
-![Kenichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-40021&show_icons=true) 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=r-40021&count_private=true&theme=react)
 
 ## Skills
 ✅ Developing a simple web app and a chrome extension
