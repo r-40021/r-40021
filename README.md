@@ -2,6 +2,8 @@
 ## Hi there 👋
 I am a student who develops web apps and Chrome extensions.
 
+HTML, CSS, SCSS, JS (React)
+
 [My Portfolio](https://r-40021.github.io/)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=r-40021&count_private=true&theme=react)
