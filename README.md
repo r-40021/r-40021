@@ -2,7 +2,7 @@
 ## Hi there 👋
 I am a student who develops web apps and Chrome extensions.
 
-HTML, CSS, SCSS, JS (React)
+HTML, CSS, SCSS, JavaScript (React)
 
 [My Portfolio](https://r-40021.github.io/)
 
