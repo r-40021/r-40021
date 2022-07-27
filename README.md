@@ -29,9 +29,10 @@ I am a student who develops web apps and browser extensions.
 ### Browser Extensions 🦊
 | Name | Source code | Install (Chrome) | Install (Firefox) |
 | :------: | :----------: | :----------------: | :------------------: |
-| Rename Tab | [Repository](https://github.com/r-40021/rename_tab) | [Install on Chrome](https://chrome.google.com/webstore/detail/rename-tab/nbpkdabdmbefnemcjehinaeklgmngdoo) | |
-| Easy Page Sharing | [Repository](https://github.com/r-40021/copy_title-URL) | [Install on Chrome](https://chrome.google.com/webstore/detail/easy-page-sharing/eoccdpbaigkllhflcgidhpcedgmlckkp) | |
-| Count Character | [Repository](https://github.com/r-40021/count-character) | [Install on Chrome](https://chrome.google.com/webstore/detail/%E6%96%87%E5%AD%97%E6%95%B0%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88/bhfihcmmnnagikobmgakbjliddjmfgmd) | [Install on Firefox](https://addons.mozilla.org/ja/firefox/addon/count-character/) |
+| Rename Tab | [Repository](https://github.com/r-40021/rename_tab) | [Install on Chrome](https://chrome.google.com/webstore/detail/nbpkdabdmbefnemcjehinaeklgmngdoo) | |
+| Easy Page Sharing | [Repository](https://github.com/r-40021/copy_title-URL) | [Install on Chrome](https://chrome.google.com/webstore/detail/eoccdpbaigkllhflcgidhpcedgmlckkp) | |
+| Count Character | [Repository](https://github.com/r-40021/count-character) | [Install on Chrome](https://chrome.google.com/webstore/detail/bhfihcmmnnagikobmgakbjliddjmfgmd) | [Install on Firefox](https://addons.mozilla.org/ja/firefox/addon/count-character/) |
+| Replace with Noto Sans | [Repository](https://github.com/r-40021/replace-font) | [Install on Chrome](https://chrome.google.com/webstore/detail/oecglhldbofcklanmhckefiflhfhabdd) | [Install on Firefox](https://addons.mozilla.org/ja/firefox/addon/replace-with-noto/) |
 
 
-Please give me a star if you like my app✨
+Nice to meet you✨
