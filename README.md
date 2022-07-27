@@ -4,6 +4,8 @@ I am a student who develops web apps and browser extensions.
 
 [Portfolio](https://r-40021.github.io/)
 
+[Blog](https://r-40021.github.io/blog)
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=r-40021&count_private=true&theme=react)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=r-40021&count_private=true&theme=react)
@@ -27,12 +29,12 @@ I am a student who develops web apps and browser extensions.
 | Web Transcription | [Repository](https://github.com/r-40021/web-speech-api) | [App](https://web-transcription.netlify.app/) |
 
 ### Browser Extensions 🦊
-| Name | Source code | Install (Chrome) | Install (Firefox) |
+| Name | Source code | For Chrome | For Firefox |
 | :------: | :----------: | :----------------: | :------------------: |
-| Rename Tab | [Repository](https://github.com/r-40021/rename_tab) | [Install on Chrome](https://chrome.google.com/webstore/detail/nbpkdabdmbefnemcjehinaeklgmngdoo) | |
-| Easy Page Sharing | [Repository](https://github.com/r-40021/copy_title-URL) | [Install on Chrome](https://chrome.google.com/webstore/detail/eoccdpbaigkllhflcgidhpcedgmlckkp) | |
-| Count Character | [Repository](https://github.com/r-40021/count-character) | [Install on Chrome](https://chrome.google.com/webstore/detail/bhfihcmmnnagikobmgakbjliddjmfgmd) | [Install on Firefox](https://addons.mozilla.org/ja/firefox/addon/count-character/) |
-| Replace with Noto Sans | [Repository](https://github.com/r-40021/replace-font) | [Install on Chrome](https://chrome.google.com/webstore/detail/oecglhldbofcklanmhckefiflhfhabdd) | [Install on Firefox](https://addons.mozilla.org/ja/firefox/addon/replace-with-noto/) |
+| Rename Tab | [GitHub](https://github.com/r-40021/rename_tab) | [Chrome Web Store](https://chrome.google.com/webstore/detail/nbpkdabdmbefnemcjehinaeklgmngdoo) | |
+| Easy Page Sharing | [GitHub](https://github.com/r-40021/copy_title-URL) | [Chrome Web Store](https://chrome.google.com/webstore/detail/eoccdpbaigkllhflcgidhpcedgmlckkp) | |
+| Count Character | [GitHub](https://github.com/r-40021/count-character) | [Chrome Web Store](https://chrome.google.com/webstore/detail/bhfihcmmnnagikobmgakbjliddjmfgmd) | [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/count-character/) |
+| Replace with Noto Sans | [GitHub](https://github.com/r-40021/replace-font) | [Chrome Web Store](https://chrome.google.com/webstore/detail/oecglhldbofcklanmhckefiflhfhabdd) | [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/replace-with-noto/) |
 
 
 Nice to meet you✨
