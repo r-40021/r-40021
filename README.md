@@ -41,14 +41,20 @@ For more details -> [Works](https://r-40021.github.io/works)
 ## My PCs 💻
 ### ThinkBook 13s gen2
 CPU: Intel Core i5 1135-G7
+
 RAM: 8GB
+
 Storage: 256GB SSD, M.2 PCIe-NVMe
+
 OS: Windows 10 -> Arch Linux
 
 ### Inspiron 3647
 CPU: Intel Core i3 4150
+
 RAM: 4GB
+
 Storage: 512GB SSD, SATA
+
 OS: Windows 8.1 -> Windows 10
 
 Nice to meet you✨
