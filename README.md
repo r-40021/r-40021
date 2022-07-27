@@ -36,5 +36,7 @@ I am a student who develops web apps and browser extensions.
 | Count Character | [GitHub](https://github.com/r-40021/count-character) | [Chrome Web Store](https://chrome.google.com/webstore/detail/bhfihcmmnnagikobmgakbjliddjmfgmd) | [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/count-character/) |
 | Replace with Noto Sans | [GitHub](https://github.com/r-40021/replace-font) | [Chrome Web Store](https://chrome.google.com/webstore/detail/oecglhldbofcklanmhckefiflhfhabdd) | [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/replace-with-noto/) |
 
+For more details -> [Works](https://r-40021.github.io/works)
+
 
 Nice to meet you✨
