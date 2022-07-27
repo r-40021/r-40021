@@ -57,4 +57,4 @@ Storage: 512GB SSD, SATA
 
 OS: Windows 8.1 -> Windows 10
 
-<br><br>\nNice to meet you✨
+<br><br>Nice to meet you✨
