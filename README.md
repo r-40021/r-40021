@@ -22,11 +22,11 @@ I am a student who develops web apps and browser extensions.
 ### Web Apps 🌐
 | Name | Source code | App |
 | :----: | :----: | :----: |
-| Yamada's Timer | [Repository](https://github.com/r-40021/countdown-timer) | [App](https://r-40021.github.io/countdown-timer/) |
-| Yamada BINGO | [Repository](https://github.com/r-40021/bingo) | [App](https://r-40021.github.io/bingo/) |
-| Simple Stopwatch | [Repository](https://github.com/r-40021/stopwatch) | [App](https://r-40021.github.io/stopwatch/) |
-| Blog | [Repository](https://github.com/r-40021/blog) | [Blog](https://r-40021.github.io/blog/)
-| Web Transcription | [Repository](https://github.com/r-40021/web-speech-api) | [App](https://web-transcription.netlify.app/) |
+| Yamada's Timer | [GitHub](https://github.com/r-40021/countdown-timer) | [Open](https://r-40021.github.io/countdown-timer/) |
+| Yamada BINGO | [GitHub](https://github.com/r-40021/bingo) | [Open](https://r-40021.github.io/bingo/) |
+| Simple Stopwatch | [GitHub](https://github.com/r-40021/stopwatch) | [Open](https://r-40021.github.io/stopwatch/) |
+| Speech to Text | [GitHub](https://github.com/r-40021/web-speech-api) | [Open](https://web-transcription.netlify.app/) |
+| Text to Speech | [GitHub](https://github.com/r-40021/read-text) | [Open](https://r-40021.github.io/read-text/) |
 
 ### Browser Extensions 🦊
 | Name | Source code | For Chrome | For Firefox |
@@ -38,5 +38,17 @@ I am a student who develops web apps and browser extensions.
 
 For more details -> [Works](https://r-40021.github.io/works)
 
+## My PCs 💻
+### ThinkBook 13s gen2
+CPU: Intel Core i5 1135-G7
+RAM: 8GB
+Storage: 256GB SSD, M.2 PCIe-NVMe
+OS: Windows 10 -> Arch Linux
+
+### Inspiron 3647
+CPU: Intel Core i3 4150
+RAM: 4GB
+Storage: 512GB SSD, SATA
+OS: Windows 8.1 -> Windows 10
 
 Nice to meet you✨
