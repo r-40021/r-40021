@@ -27,7 +27,7 @@ I am a student who develops web apps and browser extensions.
 | Simple Stopwatch | [GitHub](https://github.com/r-40021/stopwatch) | [Open](https://r-40021.github.io/stopwatch/) |
 | Speech to Text | [GitHub](https://github.com/r-40021/web-speech-api) | [Open](https://web-transcription.netlify.app/) |
 | Text to Speech | [GitHub](https://github.com/r-40021/read-text) | [Open](https://r-40021.github.io/read-text/) |
-| Snapdrop JP | [GitHub](https://github.com/r-40021/snapdrop-jp) | - |
+| Snapdrop JP | [GitHub](https://github.com/r-40021/snapdrop-jp) | [Open](https://snap-jp.herokuapp.com/) |
 
 ### Browser Extensions 🦊
 | Name | Source code | For Chrome | For Firefox |
