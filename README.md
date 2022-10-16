@@ -44,7 +44,7 @@ For more details -> [Works](https://r-40021.github.io/works)
 CPU: Intel Core i5 1135-G7  
 RAM: 8GB  
 Storage: 256GB SSD, M.2 PCIe-NVMe  
-OS: Windows 10 -> Arch Linux
+OS: Windows 10 -> Arch Linux -> Windows 11
 
 ### Dell Inspiron 3647
 CPU: Intel Core i3 4150  
