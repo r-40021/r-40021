@@ -2,9 +2,8 @@
 ## Hi there 👋
 I am a student who develops web apps and browser extensions.
 
-[Portfolio](https://www.frogapp.net)
-
-[Blog](https://blog.frogapp.net)
+- [Website](https://frogapp.net)
+- [Blog](https://blog.frogapp.net)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=r-40021&count_private=true&theme=react)
 
