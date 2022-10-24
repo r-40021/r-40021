@@ -1,4 +1,4 @@
-# Frog (@r-40021)
+# FrogApp (@r-40021)
 ## Hi there 👋
 I am a student who develops web apps and browser extensions.
 
