@@ -6,7 +6,7 @@
 I am a student who develops web apps and browser extensions.
 
 - [Website](https://frogapp.net)
-- [Blog](https://blog.frogapp.net)
+- [Blog](https://frogapp.net/blog)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=r-40021&count_private=true&theme=react)
 
