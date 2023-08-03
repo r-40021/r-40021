@@ -1,4 +1,7 @@
 # FrogApp (@r-40021)
+
+![Counter](https://profile-counter.glitch.me/r-40021/count.svg)
+
 ## Hi there 👋
 I am a student who develops web apps and browser extensions.
 
