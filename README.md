@@ -41,7 +41,7 @@ I am a student who develops web apps and browser extensions.
 
 For more details -> [Works](https://r-40021.github.io/works)
 
-## My PCs 💻
+## My Gears ⚙
 ### Lenovo ThinkBook 13s gen2
 CPU: Intel Core i5 1135-G7  
 RAM: 8GB  
@@ -52,6 +52,4 @@ OS: Windows 10 -> Arch Linux -> Windows 11
 CPU: Intel Core i3 4150  
 RAM: 4GB  
 Storage: 1TB HDD -> 512GB SSD, SATA  
-OS: Windows 8.1 -> Windows 10
-
-<br>**Nice to meet you✨**
+OS: Windows 8.1 -> Windows 10 -> Windows 11
